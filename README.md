@@ -4,7 +4,8 @@ A repository containing some of the data science projects I have worked on. Most
 ## 1. Web Scraping. 
 - [Properties on Sale in Santander - Colombia](https://github.com/camm93/data_science/tree/main/web_scraper_analysis)
 ## 2. SQL and Dashboard.
-- [Covid19_Pandemic](https://public.tableau.com/app/profile/cristian.murillo/viz/CovidAnalysis_16449458417020/Historia1)
+- [Covid19_Pandemic - Data Exploration in SQL server](https://github.com/camm93/data_science/tree/main/covid19_pandemic)
+- [Covid19_Pandemic - Dashboard](https://public.tableau.com/app/profile/cristian.murillo/viz/CovidAnalysis_16449458417020/Historia1)
 
 
 
